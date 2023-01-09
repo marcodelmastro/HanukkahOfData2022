@@ -7,3 +7,5 @@ https://hanukkah.bluebird.sh/5783/
 * Introduction: password is 5777 (Hebrew year for 2017) 
 
 * [Puzzle 1](Puzzle1.ipynb)
+
+* [Puzzle 2](Puzzle2.ipynb) (ading custom columns, using more than one dataframe, merging with selection)
