@@ -11,3 +11,5 @@ My solutions to the [2022 Hanukkah of Data](https://hanukkah.bluebird.sh/5783/) 
 * [Puzzle 3](Puzzle3.ipynb). Solved on 2023-01-09. Input from Puzzle 2 needed, plus additional external infomation on years and astrology. Tecniques: pandas `to_datetime`, `Timestamp` dataframe masksar.
 
 * [Puzzle 4](Puzzle4.ipynb). Solved on 2023-01-09. Similar to Puzzle 2.
+
+* [Puzzle 5](Puzzle4.ipynb). Solved on 2023-01-10.  Techniques: dataframe `count()` and `drop_duplicates()`
