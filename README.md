@@ -15,3 +15,5 @@ My solutions to the [2022 Hanukkah of Data](https://hanukkah.bluebird.sh/5783/) 
 * [Puzzle 5](Puzzle5.ipynb). Solved on 2023-01-10.  Techniques: dataframe `count()` and `drop_duplicates()`
 
 * [Puzzle 6](Puzzle6.ipynb). Solved on 2023-01-10.
+
+* [Puzzle 7](Puzzle7.ipynb). Solved on 2023-01-11. Used external loop to search since I'm very bad at pandas' complex queries. Techniques: pandas `Timedelta`.
