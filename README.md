@@ -19,3 +19,5 @@ My solutions to the [2022 Hanukkah of Data](https://hanukkah.bluebird.sh/5783/) 
 * [Puzzle 7](Puzzle7.ipynb). Solved on 2023-01-11. Used external loop to search since I'm very bad at pandas' complex queries. Techniques: pandas `Timedelta`.
 
 * [Puzzle 8](Puzzle8.ipynb). Solved on 2023-01-11.
+
+![8 candles](./Hanukkah_od_Data_2022_FullTapestry.PNG "Full tapestry with 8 candles")
